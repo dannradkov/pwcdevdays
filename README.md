@@ -22,4 +22,4 @@ Jordan Radkov, CSA Infra and Apps
 ### 15:45-16:30 Azure Compute Platform Overview
 
 ### Jordan Radkov:
-### 1630-1730 Containerize Your Enterprise. Roses are red, violets are blue, "Unexpected "]" at line 32"
+### 1630-1730 Containerize Your Enterprise. Building applications on Kubernetes via Azure container capabilities and VSTS.
