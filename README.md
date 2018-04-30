@@ -19,7 +19,7 @@ Jordan Radkov, CSA Infra and Apps
 ### 14:30-15:15 The Azure AI Platform or: I For One Welcome Our New Chatbot Overlords
 
 ### Scott Semyan: 
-### 15:45-16:30 Azure Compute Platform Overview
+### [15:45-16:30 Azure Compute Platform Overview](https://github.com/dannradkov/pwcdevdays/tree/master/pwc_devdays_27_04_2018/AzurePaaS)
 
 ### Jordan Radkov:
 ### [1630-1730 Containerize Your Enterprise. Building applications on Kubernetes via Azure container capabilities and VSTS.](https://github.com/dannradkov/pwcdevdays/tree/master/pwc_devdays_27_04_2018/Containers)
