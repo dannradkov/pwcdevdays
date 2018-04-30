@@ -3,7 +3,7 @@
 The PWC DevDays event was held on 27.04.2018 in Berlin. 
 The goal of this repository is to document the information presented , so it can be shared with the PWC teams after the workshop.
 
-Participants from MS' side:
+Participants from MS' side:<br/>
 Mitch Denny, SENIOR PROGRAM MANAGER, VSCS PM
 
 David Poulet, CSA Data and AI 
