@@ -22,4 +22,4 @@ Jordan Radkov, CSA Infra and Apps
 ### 15:45-16:30 Azure Compute Platform Overview
 
 ### Jordan Radkov:
-### 1630-1730 Containerize Your Enterprise. Building applications on Kubernetes via Azure container capabilities and VSTS.
+### [1630-1730 Containerize Your Enterprise. Building applications on Kubernetes via Azure container capabilities and VSTS.](https://github.com/dannradkov/pwcdevdays/tree/master/pwc_devdays_27_04_2018/Containers)
