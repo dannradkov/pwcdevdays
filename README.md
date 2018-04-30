@@ -15,7 +15,7 @@ Jordan Radkov, CSA Infra and Apps
 ### Agenda:
 ### 11.00 Mitch Denny - Keynote session
 
-### [14:00-14:30 A Quick Tour of the Azure Data Services](https://github.com/dannradkov/pwcdevdays/wiki/Data-and-AI)
+### [14:00-14:30 A Quick Tour of the Azure Data Services](https://github.com/dannradkov/pwcdevdays/tree/master/pwc_devdays_27_04_2018/Data_AI)
 ### 14:30-15:15 The Azure AI Platform or: I For One Welcome Our New Chatbot Overlords
 
 ### Scott Semyan: 
